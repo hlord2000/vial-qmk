@@ -1,0 +1,176 @@
+[
+  [
+    {
+      "x": 2,
+      "a": 1
+    },
+    "KC_GRAVE\n\n\n\n0\n0",
+    "KC_1\n\n\n\n0\n1",
+    "KC_2\n\n\n\n0\n2",
+    "KC_3\n\n\n\n0\n3",
+    "KC_4\n\n\n\n0\n4",
+    "KC_5\n\n\n\n0\n5",
+    "KC_6\n\n\n\n0\n6",
+    "KC_7\n\n\n\n0\n7",
+    "KC_8\n\n\n\n0\n8",
+    "KC_9\n\n\n\n0\n9",
+    "KC_0\n\n\n\n0\n10",
+    "KC_MINUS\n\n\n\n0\n11",
+    "KC_EQUAL\n\n\n\n0\n12",
+    {
+      "a": 0,
+      "w": 2
+    },
+    "\n\n\n\n0\n13\n1\n0\nKC_BACKSPACE",
+    {
+      "x": 0.25
+    },
+    "\n\n\n\n0\n14\n1\n1\nKC_BACKSPACE\n\nSplit Backspace",
+    "\n\n\n\n0\n13\n1\n1\nKC_BACKSPACE"
+  ],
+  [
+    {
+      "x": 2,
+      "a": 1,
+      "w": 1.5
+    },
+    "KC_TAB\n\n\n\n1\n0",
+    "KC_Q\n\n\n\n1\n1",
+    "KC_W\n\n\n\n1\n2",
+    "KC_E\n\n\n\n1\n3",
+    "KC_R\n\n\n\n1\n4",
+    "KC_T\n\n\n\n1\n5",
+    "KC_Y\n\n\n\n1\n6",
+    "KC_U\n\n\n\n1\n7",
+    "KC_I\n\n\n\n1\n8",
+    "KC_O\n\n\n\n1\n9",
+    "KC_P\n\n\n\n1\n10",
+    "KC_LEFT_BRACKET\n\n\n\n1\n11",
+    "KC_RIGHT_BRACKET\n\n\n\n1\n12",
+    {
+      "w": 1.5
+    },
+    "KC_BACKSLASH\n\n\n\n1\n13"
+  ],
+  [
+    {
+      "a": 0,
+      "w": 1.25,
+      "w2": 1.75,
+      "l": true
+    },
+    "\n\n\n\n2\n0\n0\n1\nKC_CAPS_LOCK\n\nStepped Caps",
+    {
+      "x": 0.75,
+      "w": 1.75
+    },
+    "\n\n\n\n2\n0\n0\n0\nKC_CAPS_LOCK",
+    {
+      "a": 1
+    },
+    "KC_A\n\n\n\n2\n1",
+    "KC_S\n\n\n\n2\n2",
+    "KC_D\n\n\n\n2\n3",
+    "KC_F\n\n\n\n2\n4",
+    "KC_G\n\n\n\n2\n5",
+    "KC_H\n\n\n\n2\n6",
+    "KC_J\n\n\n\n2\n7",
+    "KC_K\n\n\n\n2\n8",
+    "KC_L\n\n\n\n2\n9",
+    "KC_SEMICOLON\n\n\n\n2\n10",
+    "KC_QUOTE\n\n\n\n2\n11",
+    {
+      "w": 2.25
+    },
+    "KC_ENTER\n\n\n\n2\n13"
+  ],
+  [
+    {
+      "x": 2,
+      "w": 2.25
+    },
+    "KC_LEFT_SHIFT\n\n\n\n3\n0",
+    "KC_Z\n\n\n\n3\n1",
+    "KC_X\n\n\n\n3\n2",
+    "KC_C\n\n\n\n3\n3",
+    "KC_V\n\n\n\n3\n4",
+    "KC_B\n\n\n\n3\n5",
+    "KC_N\n\n\n\n3\n6",
+    "KC_M\n\n\n\n3\n7",
+    "KC_COMMA\n\n\n\n3\n8",
+    "KC_DOT\n\n\n\n3\n9",
+    "KC_SLASH\n\n\n\n3\n10",
+    {
+      "a": 0,
+      "w": 2.75
+    },
+    "\n\n\n\n3\n13\n2\n0\nKC_RIGHT_SHIFT",
+    {
+      "x": 0.25,
+      "w": 1.75
+    },
+    "\n\n\n\n3\n13\n2\n1\nKC_RIGHT_SHIFT\n\nSplit Right Shift",
+    "\n\n\n\n3\n11\n2\n1\nKC_RIGHT_SHIFT"
+  ],
+  [
+    {
+      "x": 2,
+      "w": 1.25
+    },
+    "\n\n\n\n4\n0\n3\n0\nKC_LEFT_CONTROL",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n1\n3\n0\nKC_LEFT_GUI",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n2\n3\n0\nKC_LEFT_ALT",
+    {
+      "w": 6.25
+    },
+    "\n\n\n\n4\n5\n3\n0\nKC_SPACE",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n9\n3\n0\nKC_RIGHT_ALT",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n10\n3\n0\nKC_RIGHT_GUI",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n11\n3\n0\nKC_MENU",
+    {
+      "w": 1.25
+    },
+    "\n\n\n\n4\n13\n3\n0\nKC_RIGHT_CONTROL"
+  ],
+  [
+    {
+      "y": 0.25,
+      "x": 2,
+      "w": 1.5
+    },
+    "\n\n\n\n4\n0\n3\n1\nKC_LEFT_CONTROL",
+    "\n\n\n\n4\n1\n3\n1\nKC_LEFT_GUI",
+    {
+      "w": 1.5
+    },
+    "\n\n\n\n4\n2\n3\n1\nKC_LEFT_ALT",
+    {
+      "w": 7
+    },
+    "\n\n\n\n4\n5\n3\n1\nKC_SPACE\n\n7u Spacebar",
+    {
+      "w": 1.5
+    },
+    "\n\n\n\n4\n10\n3\n1\nKC_RIGHT_ALT",
+    "\n\n\n\n4\n11\n3\n1\nKC_RIGHT_GUI",
+    {
+      "w": 1.5
+    },
+    "\n\n\n\n4\n13\n3\n1\nKC_RIGHT_CONTROL"
+  ]
+]
