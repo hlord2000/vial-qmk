@@ -1,12 +1,12 @@
 {
-    "manufacturer": "MANUFACTURER",
-    "keyboard_name": "Keyboard",
-    "maintainer": "qmk",
-    "processor": "RP2040",
-    "bootloader": "rp2040",
+    "manufacturer": "Lord's Boards",
+    "keyboard_name": "Koneko40 - Stagger",
+    "maintainer": "hlord2000",
+    "processor": "STM32L443",
+    "bootloader": "stm32-dfu",
     "usb": {
         "vid": "0xFEED",
-        "pid": "0x0001",
+        "pid": "0x0004",
         "device_version": "0.0.1"
     },
     "features": {
@@ -20,14 +20,14 @@
     },
     "encoder": {
         "rotary": [
-            { "pin_a": "GP0", "pin_b": "GP1", "resolution": 2 },
-            { "pin_a": "GP8", "pin_b": "GP9", "resolution": 2  }
+            { "pin_a": "B5", "pin_b": "B6" },
+            { "pin_a": "B13", "pin_b": "B12" }
         ]
     },
     "diode_direction": "COL2ROW",
     "matrix_pins": {
-        "rows": ["GP20", "GP21", "GP23", "GP22"],
-        "cols": ["GP29", "GP28", "GP27", "GP26", "GP25", "GP24", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7"]
+        "rows": ["B11", "B10", "A15", "B3"],
+        "cols": ["A5", "A6", "A7", "B0", "B1", "B2", "B4", "A10", "A9", "A8", "B15", "B14"]
     },
     "layouts": {
         "LAYOUT": {
@@ -73,7 +73,8 @@
                 { "matrix": [3, 2], "x": 2, "y": 3 },
                 { "matrix": [3, 3], "x": 3, "y": 3 },
                 { "matrix": [3, 4], "x": 4, "y": 3 },
-                { "matrix": [3, 5], "w": 2, "x": 5, "y": 3 },
+                { "matrix": [3, 5], "x": 5, "y": 3 },
+                { "matrix": [3, 6], "x": 6, "y": 3 },
                 { "matrix": [3, 7], "x": 7, "y": 3 },
                 { "matrix": [3, 8], "x": 8, "y": 3 },
                 { "matrix": [3, 9], "x": 9, "y": 3 },
